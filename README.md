@@ -1,0 +1,2 @@
+# pastrami
+A didactic repo
