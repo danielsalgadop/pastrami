@@ -1,2 +1,2 @@
 # pastrami
-A didactic repo
+A didactic repo, enjoy and learn
